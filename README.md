@@ -1,5 +1,5 @@
 # exercise_classification
-The goal of this project is to use various models to classify personal exercise data into activities.
+The goal of this project is to use various models to classify personal exercise data into activities. You can view the compiled Rmd at the following link: http://rpubs.com/DavidChabra/796579
 
 ## sources
 This project was completed as assignment for the JHU data science specialization on Coursera. For details about this project please check there.
